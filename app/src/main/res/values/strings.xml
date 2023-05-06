@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Evience Test</string>
+    <string name="noInternetAvailable">no internet available</string>
+</resources>
